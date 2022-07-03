@@ -1,0 +1,21 @@
+Git criado em 2005
+Github repositorio online
+1-controle de visao 
+2-armazenamento na nuvem
+3-trabalho em equipe
+4-melhorar seu codigo
+5-Reconhecimento
+
+Principais comandos windows
+Listar: dir
+navegar entre pasta :cd/
+voltar: cd..
+limpar terminal: cls
+criar pasta: mk dir
+del: deletar
+
+O que significa SHA significa Secure Hash Algorithm,
+e um conjunto de funções hash cripotografadas
+a encriptação gera um conjunto de caracteries identificados 
+por 40 digitos.
+
